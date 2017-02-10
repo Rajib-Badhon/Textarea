@@ -1,0 +1,17 @@
+.textarea{
+	margin-top: 40px;
+	padding: 20px;	
+	background-color: coral;
+}
+.textclass{
+	background: #E6E6E6;
+	border: 2px solid black;
+}
+.text{
+	color: #51287B;
+	font-size: 18px;
+	font-style: initial;
+}
+.remain{
+	color: black;
+}
